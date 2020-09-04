@@ -12,7 +12,7 @@
     "body-parser": "latest",
     "ejs": "^3.0.1",
     "express": "latest",
-    "mongodb": "^2.2.36",
+    "mongodb": "^3.1.13",
     "mongoose": "latest",
     "express-validator": "^5.3.1"
   }
